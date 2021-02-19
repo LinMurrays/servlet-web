@@ -9,6 +9,7 @@ import org.springframework.web.servlet.ViewResolver;
 import java.util.Locale;
 
 
+//
 @SpringBootApplication
 public class SpringBoot04WebRestfulcrudApplication {
 
